@@ -1,4 +1,4 @@
-# Restaurant Reviews NLP
+# Restaurant Reviews
 
 ## 1. Introduction
 &nbsp;&nbsp;&nbsp;&nbsp; Herein this dataset, we have 1000 reviews of a certain restaurant each with an indicator of whether it is a good or bad review. My goal in this project was to create a model that would be able to decipher between a good and bad review based on the content of the comment. 
