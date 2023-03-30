@@ -21,5 +21,5 @@
 ### 3.4 Deep Neural Network
 &nbsp;&nbsp;&nbsp;&nbsp; I decided that I would finally try training a neural network on the training data to see whether or not it would be as accurate as the Multinomial Naive Bayes Classifier. After 20 iterations through the training data, the model was over 98% accurate when predicting that data, and as a result was able to show very accurate predictions. The Deep Neural Network was 81% accurate when predicting the testing data.
 
-## 4. Conclusion
-&nbsp;&nbsp;&nbsp;&nbsp; With only 1000 reviews to work with, our models displayed a very strong showing. I'd be curious to see how the Multinomial Naive Bayes model and the Deep Neural Network would perform with more reviews, perhaps closer to 10000. Regardless, I am happy with what I was able to produce.
+## 4. Model Analysis
+&nbsp;&nbsp;&nbsp;&nbsp; With only different reviews to learn from, I am okay with the slightly lower accuracy my model showed. I think that there is a lot of potential for growth in each of them, and I could see the deep neural network performing at very very well with more training data given its nature.
